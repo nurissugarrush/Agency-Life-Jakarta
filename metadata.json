@@ -1,0 +1,6 @@
+{
+  "name": "Agency Life: Jakarta Edition",
+  "description": "A mobile-first text-based life simulator set in Jakarta. Live an entire life from birth to retirement in the Jakarta advertising agency industry, win Cannes Lions, or build your own agency empire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
